@@ -21,7 +21,7 @@ Após o cálculo, o aplicativo executa uma **Ordenação Descrescente**, garanti
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **React Native**: Framework para interface mobile.
 * **Expo**: Plataforma de desenvolvimento e execução.
